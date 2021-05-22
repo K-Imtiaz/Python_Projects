@@ -1,0 +1,5 @@
+print("Hello Imtiaz\nHow are you\nHow's day 1 going\nIs python really easy as they say?\nDay 1 - Python Print Function\nThe function is declared like this\nprint('What to print')")
+print("Hello"+"Imtiaz")
+print("Hello"+" "+"Imtiaz")
+print("Hello"+" Imtiaz")
+print("Hello "+"Imtiaz")

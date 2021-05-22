@@ -1,0 +1,7 @@
+print("Hello Imtiaz")
+print("How are you?")
+print("How's day 1 going")
+print("Is python really easy as they say?")
+print("Day 1 - Python Print Function")
+print("The function is declared like this:")
+print("print('What to print')")
